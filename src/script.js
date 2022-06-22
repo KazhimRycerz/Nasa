@@ -49,7 +49,7 @@ const displayInfo = (data) => {
         container.style.position="absolute"
         container.style.bottom="0vh"
         container.style.margin=" 0 3rem 3rem 3rem "
-        container.style.width="88%"
+        container.style.width="86%"
         container.style.padding="20px"
         container.style.background="rgba(0, 0, 0, 0.5)"
         container.appendChild(imgOfTheDay)
