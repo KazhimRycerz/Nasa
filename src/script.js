@@ -44,7 +44,7 @@ const displayInfo = (data) => {
         copyright.style.left="80px"
         copyright.style.fontSize="10px"
         copyright.style.color = "white"
-        copyright.style.transform="rotate(-90deg) translateX(85px) translateY(-50px)"
+        copyright.style.transform="rotate(-90deg) translateX(85px) translateY(-60px)"
     const container = document.querySelector("#nasaIOTD")
         container.style.position="absolute"
         container.style.bottom="0vh"
