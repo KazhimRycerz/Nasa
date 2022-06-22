@@ -2,7 +2,7 @@
   "name": "nasa",
   "version": "1.0.0",
   "description": "webpage created by using the Nasa API An 2 hours exercise at DCI in June 2020 © Joachim Ritter",
-  "main": "src/index.html",
+  "main": "src/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "light-server -c light-server.json",
